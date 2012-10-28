@@ -1,7 +1,6 @@
 我已经导好包，编译好，大家只要下载直接导入eclipse即可。
-google
-play链接：https://play.google.com/store/apps/details?id=com.google.android.
-apps.iosched
+google play链接：
+https://play.google.com/store/apps/details?id=com.google.android.apps.iosched
 
 项目地址：
 http://code.google.com/p/iosched/
