@@ -1,7 +1,8 @@
 我已经导好包，编译好，
 
 大家只要下载直接导入eclipse即可。
-另外还需要导入https://github.com/JakeWharton/ActionBarSherlock这个项目为iosched作为library
+另外还需要导入ActionBarSherlock这个项目为iosched作为library
+项目地址:https://github.com/JakeWharton/ActionBarSherlock
 
 
 google play链接：
